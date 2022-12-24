@@ -6,17 +6,18 @@
 
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d005/d005" target="_blank">
-<img src="https://www.i2symbol.com/images/text-symbols/5-symbol.png" alt=""></img>
+<img src="https://www.i2symbol.com/images/text-symbols/5-symbol.png" alt="">
 </a>
 </p>
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d006/d006"  target="_blank">
-    <img src="download-removebg-preview.png" alt="">
+    <img src="imagem6.png" alt="">
 </a>
 </p>
 <p>
-<a href="https://eliasmoreiradev.github.io/Desafios/d009/index.html" target="_blank"><img src="download-removebg-preview (1).png" alt=""></a></p>
+<a href="https://eliasmoreiradev.github.io/Desafios/d009/index.html" target="_blank"><img src="imagem9.png" alt=""></a></p>
 <p>
-<a href="https://eliasmoreiradev.github.io/Desafios/d010/correcao/correcao.html" target="_blank"><img src="4e4ee8b683a4e5e23c8a6d5ee-removebg-preview.png" alt="">
+<a href="https://eliasmoreiradev.github.io/Desafios/d010/correcao/correcao.html" target="_blank">
+<img src="imagem10.png" alt="">
 </a>
 </p>
