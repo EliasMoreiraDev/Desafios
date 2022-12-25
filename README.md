@@ -6,18 +6,18 @@
 
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d005/d005" target="_blank">
-<img src="imagem5.xcf" alt="">
+<img src="imagem5.png" alt="">
 </a>
 </p>
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d006/d006"  target="_blank">
-    <img src="imagem6.xcf" alt="">
+    <img src="imagem6.png" alt="">
 </a>
 </p>
 <p>
-<a href="https://eliasmoreiradev.github.io/Desafios/d009/index.html" target="_blank"><img src="imagem9.xcf" alt=""></a></p>
+<a href="https://eliasmoreiradev.github.io/Desafios/d009/index.html" target="_blank"><img src="imagem9.png" alt=""></a></p>
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d010/correcao/correcao.html" target="_blank">
-<img src="imagem10.xcf" alt="">
+<img src="imagem10.png" alt="">
 </a>
 </p>
