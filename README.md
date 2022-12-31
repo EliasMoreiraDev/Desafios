@@ -6,18 +6,26 @@
 
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d005/d005" target="_blank">
-<img src="imagem5.png" alt="">
+<h2>Desafio 5</h2>
 </a>
 </p>
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d006/d006"  target="_blank">
-    <img src="imagem6.png" alt="">
+<h2>Desafio 6</h2>
 </a>
 </p>
 <p>
-<a href="https://eliasmoreiradev.github.io/Desafios/d009/index.html" target="_blank"><img src="imagem9.png" alt=""></a></p>
+<a href="https://eliasmoreiradev.github.io/Desafios/d009/index.html" target="_blank">
+<h2>Desafio 9</h2>>
+</a>
+</p>
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d010/correcao/correcao.html" target="_blank">
-<img src="imagem10.png" alt="">
+<h2>Desafio 10</h2>
+</a>
+</p>
+<p>
+<a href="https://eliasmoreiradev.github.io/Desafios/d012" target="_blank">
+<h2>Desafio 12</h2>
 </a>
 </p>
