@@ -16,7 +16,7 @@
 </p>
 <p>
 <a href="https://eliasmoreiradev.github.io/Desafios/d009/index.html" target="_blank">
-<h2>Desafio 9</h2>>
+<h2>Desafio 9</h2>
 </a>
 </p>
 <p>
