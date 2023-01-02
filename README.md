@@ -29,3 +29,18 @@
 <h2>Desafio 12</h2>
 </a>
 </p>
+<p>
+<a href="https://eliasmoreiradev.github.io/Desafios/d013/d013-pt1.html" target="_blank">
+<h2>Desafio 13 - Parte 1</h2>
+</a>
+</p>
+<p>
+<a href="https://eliasmoreiradev.github.io/Desafios/d013/d013-pt2.html" target="_blank">
+<h2>Desafio 13 - Parte 2</h2>
+</a>
+</p>
+<p>
+<a href="https://eliasmoreiradev.github.io/Desafios/d014/d014.html" target="_blank">
+<h2>Desafio 14</h2>
+</a>
+</p>
